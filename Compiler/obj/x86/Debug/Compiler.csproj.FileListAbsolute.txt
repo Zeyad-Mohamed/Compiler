@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2010\Projects\Compiler\Compiler\bin\Debug\Compiler.exe
+c:\users\admin\documents\visual studio 2010\Projects\Compiler\Compiler\bin\Debug\Compiler.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Compiler\Compiler\obj\x86\Debug\Compiler.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\Compiler\Compiler\obj\x86\Debug\Compiler.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\Compiler\Compiler\obj\x86\Debug\Compiler.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\Compiler\Compiler\obj\x86\Debug\Compiler.exe
+c:\users\admin\documents\visual studio 2010\Projects\Compiler\Compiler\obj\x86\Debug\Compiler.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Compiler\Compiler\obj\x86\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Zeyad\Desktop\Compiler\Compiler\obj\x86\Debug\Compiler.exe
+C:\Users\Zeyad\Desktop\Compiler\Compiler\obj\x86\Debug\Compiler.pdb
+C:\Users\Zeyad\Desktop\Compiler\Compiler\obj\x86\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Zeyad\Desktop\Compiler\Compiler\obj\x86\Debug\Compiler.Form1.resources
+C:\Users\Zeyad\Desktop\Compiler\Compiler\obj\x86\Debug\Compiler.Properties.Resources.resources
+C:\Users\Zeyad\Desktop\Compiler\Compiler\obj\x86\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Zeyad\Desktop\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\Zeyad\Desktop\Compiler\Compiler\bin\Debug\Compiler.pdb
